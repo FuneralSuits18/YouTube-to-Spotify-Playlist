@@ -2,6 +2,10 @@
 
 Converts a YouTube playlist's tracks into a .csv file.
 
-Requires an API key and the playlist id.  
-The playlist must be public.  
-Insert the API key and the playlist id and run.
+#### Instructions
+
+1. Get an API key from the Google developer console
+2. Get the playlist id. The playlist must be public
+3. Download the script
+4. Run: pip install google-api-python-client
+5. In the script, insert the API key and the playlist id and run.
