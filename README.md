@@ -19,7 +19,7 @@ Adds tracks to a playlist from a csv file with format: Title,Artist
 
 
 ## remove-all-tracks-from-playlist.py
-Removes all the tracks from a playlist (not really).
+Removes all the tracks from a playlist.
 
 *Problems:*  
 *Need to run the script multiple times if the playlist is big. Don't know how to solve the problem. Deleting the playlist is just simpler and more efficient.*
