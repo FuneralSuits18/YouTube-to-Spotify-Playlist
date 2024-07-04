@@ -1,7 +1,3 @@
-
-# ! Didn't check for duplicates in the csv. Should implement checking for duplicates right before adding. But might slow down the script even more.
-# ! Adds the first search result in Spotify 🫠🫠
-
 import csv
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
